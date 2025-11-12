@@ -662,25 +662,73 @@ _Bengaluru, India • Aug 2018 – Jul 2022_
 
 <table align="center">
 <tr>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishika-ravi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<td align="center" width="50%">
+
+### 📈 **Contribution Stats**
+
+<table>
+<tr><td>📊</td><td><b>Total Contributions</b></td><td><img src="https://img.shields.io/badge/779+-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔥</td><td><b>Current Streak</b></td><td><img src="https://img.shields.io/badge/2_Days-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⭐</td><td><b>Longest Streak</b></td><td><img src="https://img.shields.io/badge/10_Days-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📅</td><td><b>Active Since</b></td><td><img src="https://img.shields.io/badge/Jan_2024-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
+
 </td>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-ravi&layout=compact&langs_count=8&theme=radical"/>
+<td align="center" width="50%">
+
+### 💻 **Most Used Languages**
+
+<table>
+<tr><td>📓</td><td><b>Jupyter Notebook</b></td><td><img src="https://img.shields.io/badge/84.99%25-F37626?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🐚</td><td><b>Shell</b></td><td><img src="https://img.shields.io/badge/7.62%25-89E051?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>☕</td><td><b>JavaScript</b></td><td><img src="https://img.shields.io/badge/6.57%25-F7DF1E?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🌐</td><td><b>HTML</b></td><td><img src="https://img.shields.io/badge/1.52%25-E34F26?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🐍</td><td><b>Python</b></td><td><img src="https://img.shields.io/badge/0.86%25-3776AB?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
+
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishika-ravi&theme=radical&hide_border=true" width="90%" />
+<br/>
+
+**📌 Active Period:** Jan 2, 2024 - Present | **🎯 Focus:** Data Analytics & AI/ML Projects
 
 </div>
 
-<!-- Activity Graph -->
+<!-- Contribution Highlights -->
 <div align="center">
 
-## 📈 **CONTRIBUTION ACTIVITY**
+## 📈 **CONTRIBUTION HIGHLIGHTS**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishika-ravi&custom_title=Annual%20Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
+<table width="80%" align="center">
+<tr>
+<td width="25%" align="center">
+<h3>🎯</h3>
+<h4>Data Analytics</h4>
+<p>Primary focus on ETL pipelines, data visualization, and statistical analysis</p>
+</td>
+<td width="25%" align="center">
+<h3>🤖</h3>
+<h4>AI/ML Projects</h4>
+<p>RAG systems, LangChain implementations, and predictive models</p>
+</td>
+<td width="25%" align="center">
+<h3>📊</h3>
+<h4>Dashboards</h4>
+<p>Power BI, Tableau, and interactive analytics dashboards</p>
+</td>
+<td width="25%" align="center">
+<h3>🔄</h3>
+<h4>Data Engineering</h4>
+<p>ETL workflows, database optimization, and cloud solutions</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**🌟 Open to collaborations on data analytics and ML projects! Feel free to reach out!**
 
 </div>
 
@@ -778,10 +826,10 @@ _Bengaluru, India • Aug 2018 – Jul 2022_
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://komarev.com/ghpvc/?username=rishika-ravi&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/badge/Profile-Active-brightgreen?style=for-the-badge&labelColor=2C3E50" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/github/followers/rishika-ravi?style=for-the-badge&color=0366d6&labelColor=24292e&label=Followers" />
+<img src="https://img.shields.io/badge/Contributions-779+-blueviolet?style=for-the-badge&labelColor=2C3E50" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge&labelColor=2C3E50" />
